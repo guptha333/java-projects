@@ -1,0 +1,80 @@
+Oct 13, 2022 2:34:20 PM application.main.Main <clinit>
+INFO: Logging Inilialized!!!
+Oct 13, 2022 2:34:20 PM application.main.Main writeToLog
+INFO: Welcome !!!
+Oct 13, 2022 2:34:26 PM application.main.Main writeToLog
+INFO: First Name : 
+Oct 13, 2022 2:37:12 PM application.main.Main <clinit>
+INFO: Logging Inilialized!!!
+Oct 13, 2022 2:37:12 PM application.main.Main writeToLog
+INFO: Welcome !!!
+Oct 13, 2022 2:37:17 PM application.main.Main writeToLog
+INFO: First Name : 
+Oct 13, 2022 2:37:19 PM application.main.Main writeToLog
+INFO: First Name : 
+Oct 13, 2022 2:37:20 PM application.main.Main writeToLog
+INFO: First Name : 
+Oct 13, 2022 3:02:09 PM application.main.Main <clinit>
+INFO: Logging Inilialized!!!
+Oct 13, 2022 3:02:09 PM application.main.Main writeToLog
+INFO: Welcome !!!
+Oct 13, 2022 3:02:13 PM application.main.Main writeToLog
+INFO: First Name : 
+Oct 13, 2022 3:02:15 PM application.main.Main writeToLog
+INFO: First Name : 
+Oct 13, 2022 3:02:16 PM application.main.Main writeToLog
+INFO: Last Name : 
+Oct 13, 2022 3:02:18 PM application.main.Main writeToLog
+INFO: Last Name : 
+Oct 13, 2022 3:02:18 PM application.main.Main writeToLog
+INFO: Father Name : 
+Oct 13, 2022 3:02:20 PM application.main.Main writeToLog
+INFO: Father Name : 
+Oct 13, 2022 3:02:20 PM application.main.Main writeToLog
+INFO: Selected Gender : Female
+Oct 13, 2022 3:02:23 PM application.main.Main writeToLog
+INFO: Phone Number : 33
+Oct 13, 2022 3:02:24 PM application.main.Main writeToLog
+INFO: Phone Number : 33
+Oct 13, 2022 3:02:26 PM application.main.Main writeToLog
+INFO: Phone Number : 33
+Oct 13, 2022 3:02:27 PM application.main.Main writeToLog
+INFO: Phone Number : 33
+Oct 13, 2022 3:02:31 PM application.main.Main writeToLog
+INFO: Email: edfv2342
+Oct 13, 2022 3:02:37 PM application.main.Main writeToLog
+INFO: Date Of Birth : 2012-10-13
+Oct 13, 2022 3:02:39 PM application.main.Main writeToLog
+INFO: First Name : 
+Oct 13, 2022 3:02:44 PM application.main.Main writeToLog
+INFO: First Name : ewd
+Oct 13, 2022 3:02:45 PM application.main.Main writeToLog
+INFO: First Name : ewd
+Oct 13, 2022 3:02:45 PM application.main.Main writeToLog
+INFO: Last Name : 
+Oct 13, 2022 3:02:45 PM application.main.Main writeToLog
+INFO: Father Name : 
+Oct 13, 2022 3:02:45 PM application.main.Main writeToLog
+INFO: Selected Gender : Female
+Oct 13, 2022 3:02:45 PM application.main.Main writeToLog
+INFO: Phone Number : 33
+Oct 13, 2022 3:02:45 PM application.main.Main writeToLog
+INFO: Email: edfv2342
+Oct 13, 2022 3:02:51 PM application.main.Main writeToLog
+INFO: Email: 
+Oct 13, 2022 3:02:52 PM application.main.Main writeToLog
+INFO: First Name : ewd
+Oct 13, 2022 3:02:52 PM application.main.Main writeToLog
+INFO: Last Name : 
+Oct 13, 2022 3:02:52 PM application.main.Main writeToLog
+INFO: Father Name : 
+Oct 13, 2022 3:02:52 PM application.main.Main writeToLog
+INFO: Selected Gender : Female
+Oct 13, 2022 3:02:52 PM application.main.Main writeToLog
+INFO: Phone Number : 33
+Oct 13, 2022 3:02:52 PM application.main.Main writeToLog
+INFO: Email: 
+Oct 13, 2022 3:44:54 PM application.main.Main <clinit>
+INFO: Logging Inilialized!!!
+Oct 13, 2022 3:44:54 PM application.main.Main writeToLog
+INFO: Welcome !!!
